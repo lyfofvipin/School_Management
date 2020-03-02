@@ -14,8 +14,19 @@
 }
 
 body{
-  background-color: aqua;
+  background-image: url(./img/test_img.png);
+  font-size: 30px;
+  font-variant-caps: all-petite-caps;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
+
+table, th, td {
+  padding: 45px;
+  color: antiquewhite;
+  border-collapse: collapse;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;

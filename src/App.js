@@ -5,9 +5,20 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>My School Management system app.</h1>
-      <h2>Author: Vipin</h2>
-      <img src={profileImage} alt="profile image" />
+      <h1>The Path Way Academy</h1>
+      <div>
+      <table>
+        <tr>
+          <th>Programs</th>
+          <td>Competitive Exam</td>
+          <td>Class Schedule</td>
+          <td>Downloads</td>
+          <td>Admission</td>
+          <td>Contect US</td>
+          <td>Why US?</td>
+        </tr>
+      </table>
+      </div>
     </div>
   );
 }
