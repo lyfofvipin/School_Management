@@ -19,6 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://vipin3699.github.io/School_Management",
   "eslintConfig": {
     "extends": "react-app"
   },
