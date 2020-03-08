@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.box{
+  background-color: lightgrey;
+  width: 200px;
+  padding: 3%;
+  margin: 3%;
+}
+
+footer{
+  color: rgb(31, 1, 31);
+}
 
 .menu_list{
   width: 100%;
@@ -26,20 +36,21 @@ nav{
 }
 
 li{
-  color: wheat;
+  color: rgb(202, 193, 177);
 }
 
 .h1_class{
-  text-align: left;
+  text-align: center;
   font-size: 67px;
 }
 
 .nav-links{
   display: flex;
-  width: 50%;
+  width: 100%;
   justify-content: space-around;
   align-items: center;
   min-height: 10vh;
   background-color: rgb(74, 80, 80);
+  list-style: none;
   color: black;
 }
