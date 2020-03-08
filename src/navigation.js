@@ -6,7 +6,7 @@ function Navigation() {
   return (
     <nav>
         <ul className="nav-links">
-          <Link to='/'>
+          <Link to='/School_Management'>
             <li>Home</li>
           </Link>
           <Link to='/programs'>

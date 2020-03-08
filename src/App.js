@@ -19,7 +19,7 @@ function App() {
       <h3 className="h1_class">The Path Way Academy</h3>
       <Switch>
         <div className="App">
-          <Route path="/" exact component={Home} />
+          <Route path="/School_Management" exact component={Home} />
           <Route path="/admission" component={Admission} />
           <Route path="/class" component={Class} />
           <Route path="/competitive" component={Competitive} />
