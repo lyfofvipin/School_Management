@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/School_Management/static/css/main.cd681d5a.chunk.css",
-    "main.js": "/School_Management/static/js/main.24684fd3.chunk.js",
-    "main.js.map": "/School_Management/static/js/main.24684fd3.chunk.js.map",
+    "main.js": "/School_Management/static/js/main.a2f7377e.chunk.js",
+    "main.js.map": "/School_Management/static/js/main.a2f7377e.chunk.js.map",
     "runtime-main.js": "/School_Management/static/js/runtime-main.e06d3e2c.js",
     "runtime-main.js.map": "/School_Management/static/js/runtime-main.e06d3e2c.js.map",
     "static/js/2.47c839c4.chunk.js": "/School_Management/static/js/2.47c839c4.chunk.js",
     "static/js/2.47c839c4.chunk.js.map": "/School_Management/static/js/2.47c839c4.chunk.js.map",
     "index.html": "/School_Management/index.html",
-    "precache-manifest.29da6974cc51d6b33de0fb0b730632a2.js": "/School_Management/precache-manifest.29da6974cc51d6b33de0fb0b730632a2.js",
+    "precache-manifest.43d7c38a2d8510b760d9cd7d65ac749c.js": "/School_Management/precache-manifest.43d7c38a2d8510b760d9cd7d65ac749c.js",
     "service-worker.js": "/School_Management/service-worker.js",
     "static/css/main.cd681d5a.chunk.css.map": "/School_Management/static/css/main.cd681d5a.chunk.css.map",
     "static/js/2.47c839c4.chunk.js.LICENSE.txt": "/School_Management/static/js/2.47c839c4.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.e06d3e2c.js",
     "static/js/2.47c839c4.chunk.js",
     "static/css/main.cd681d5a.chunk.css",
-    "static/js/main.24684fd3.chunk.js"
+    "static/js/main.a2f7377e.chunk.js"
   ]
 }
