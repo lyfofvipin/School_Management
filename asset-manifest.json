@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.415253a9.chunk.css",
-    "main.js": "/static/js/main.e44d12dd.chunk.js",
-    "main.js.map": "/static/js/main.e44d12dd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cc8d3cab.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cc8d3cab.js.map",
-    "static/js/2.ef30b1ce.chunk.js": "/static/js/2.ef30b1ce.chunk.js",
-    "static/js/2.ef30b1ce.chunk.js.map": "/static/js/2.ef30b1ce.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b4d16f2979944e54f8e2f5c03db8acf6.js": "/precache-manifest.b4d16f2979944e54f8e2f5c03db8acf6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.415253a9.chunk.css.map": "/static/css/main.415253a9.chunk.css.map",
-    "static/js/2.ef30b1ce.chunk.js.LICENSE.txt": "/static/js/2.ef30b1ce.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/back_ground.d4852703.jpg"
+    "main.css": "/School_Management/static/css/main.85896e28.chunk.css",
+    "main.js": "/School_Management/static/js/main.183cd32e.chunk.js",
+    "main.js.map": "/School_Management/static/js/main.183cd32e.chunk.js.map",
+    "runtime-main.js": "/School_Management/static/js/runtime-main.e06d3e2c.js",
+    "runtime-main.js.map": "/School_Management/static/js/runtime-main.e06d3e2c.js.map",
+    "static/js/2.6a5ee64e.chunk.js": "/School_Management/static/js/2.6a5ee64e.chunk.js",
+    "static/js/2.6a5ee64e.chunk.js.map": "/School_Management/static/js/2.6a5ee64e.chunk.js.map",
+    "index.html": "/School_Management/index.html",
+    "precache-manifest.ec6fc916e9f4ee099a07a5ef6523768d.js": "/School_Management/precache-manifest.ec6fc916e9f4ee099a07a5ef6523768d.js",
+    "service-worker.js": "/School_Management/service-worker.js",
+    "static/css/main.85896e28.chunk.css.map": "/School_Management/static/css/main.85896e28.chunk.css.map",
+    "static/js/2.6a5ee64e.chunk.js.LICENSE.txt": "/School_Management/static/js/2.6a5ee64e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/School_Management/static/media/back_ground.d4852703.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc8d3cab.js",
-    "static/js/2.ef30b1ce.chunk.js",
-    "static/css/main.415253a9.chunk.css",
-    "static/js/main.e44d12dd.chunk.js"
+    "static/js/runtime-main.e06d3e2c.js",
+    "static/js/2.6a5ee64e.chunk.js",
+    "static/css/main.85896e28.chunk.css",
+    "static/js/main.183cd32e.chunk.js"
   ]
 }
