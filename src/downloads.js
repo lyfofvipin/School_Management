@@ -3,8 +3,8 @@ import './App.css';
 
 function Download() {
   return (
-    <div className="App">
-      <h1>Downloads</h1>
+    <div className="App" className="maintain">
+      <img src={require('./images/maint.gif')} />
     </div>
   );
 }
