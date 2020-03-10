@@ -19,7 +19,7 @@ function Home() {
         <td className="box"><Link to='/why_us'>Why US?</Link></td>
       </table>
       <footer>
-        <p>Contact information: <a href="http://twitter.com/vipin3699">Vipin Kumar</a>.</p>
+      <p>Contact Information: <Link to='https://www.facebook.com/thepathwayacademydelhi/'>The Path Way Academy</Link></p>
     </footer>
     </div>
   );
