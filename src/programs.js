@@ -69,21 +69,27 @@ function Program() {
       <div className="grid-container">
         <div className="gird-item"><h1>Class-XI</h1></div>
         <div className="gird-item"><h1>Class-XII</h1></div>
+        <div className="gird-item"></div>
 
         <div className="gird-item">Board Preperation</div>
         <div className="gird-item">Board Preperation</div>
+        <div className="gird-item"></div>
 
         <div className="gird-item">Online test series</div>
         <div className="gird-item">Online test series</div>
+        <div className="gird-item"></div>
 
         <div className="gird-item">Video Lectures</div>
         <div className="gird-item">Video Lectures</div>
+        <div className="gird-item"></div>
 
         <div className="gird-item">2 Year Intigerated JEE or NEET Test</div>
         <div className="gird-item">1 Year Intigerated JEE or NEET Test</div>
+        <div className="gird-item"></div>
 
         <div className="gird-item"></div>
         <div className="gird-item">6 Months NDA Preperation</div>
+        <div className="gird-item"></div>
 
       </div>
     </div>
