@@ -5,6 +5,7 @@ import {Link} from 'react-router-dom';
 function Home() {
   return (
     <div className="App">
+      <title>TPWA</title>
       <table className="menu_list">
         <td className="box"><Link to='/programs'>Programs</Link></td>
         <td className="box"><Link to='/competitive'>Competitive Exam</Link></td>
