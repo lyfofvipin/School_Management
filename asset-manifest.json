@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/School_Management/static/css/main.e68ecaa7.chunk.css",
-    "main.js": "/School_Management/static/js/main.d8951e23.chunk.js",
-    "main.js.map": "/School_Management/static/js/main.d8951e23.chunk.js.map",
+    "main.css": "/School_Management/static/css/main.cd137129.chunk.css",
+    "main.js": "/School_Management/static/js/main.2b8acf09.chunk.js",
+    "main.js.map": "/School_Management/static/js/main.2b8acf09.chunk.js.map",
     "runtime-main.js": "/School_Management/static/js/runtime-main.e06d3e2c.js",
     "runtime-main.js.map": "/School_Management/static/js/runtime-main.e06d3e2c.js.map",
-    "static/js/2.47c839c4.chunk.js": "/School_Management/static/js/2.47c839c4.chunk.js",
-    "static/js/2.47c839c4.chunk.js.map": "/School_Management/static/js/2.47c839c4.chunk.js.map",
+    "static/js/2.03ea6b7f.chunk.js": "/School_Management/static/js/2.03ea6b7f.chunk.js",
+    "static/js/2.03ea6b7f.chunk.js.map": "/School_Management/static/js/2.03ea6b7f.chunk.js.map",
     "index.html": "/School_Management/index.html",
-    "precache-manifest.02c9380dbde7ac8614f4609f1d06f357.js": "/School_Management/precache-manifest.02c9380dbde7ac8614f4609f1d06f357.js",
+    "precache-manifest.28cfec858f9780525065d2abefee86d4.js": "/School_Management/precache-manifest.28cfec858f9780525065d2abefee86d4.js",
     "service-worker.js": "/School_Management/service-worker.js",
-    "static/css/main.e68ecaa7.chunk.css.map": "/School_Management/static/css/main.e68ecaa7.chunk.css.map",
-    "static/js/2.47c839c4.chunk.js.LICENSE.txt": "/School_Management/static/js/2.47c839c4.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/School_Management/static/media/back_ground.d4852703.jpg"
+    "static/css/main.cd137129.chunk.css.map": "/School_Management/static/css/main.cd137129.chunk.css.map",
+    "static/js/2.03ea6b7f.chunk.js.LICENSE.txt": "/School_Management/static/js/2.03ea6b7f.chunk.js.LICENSE.txt",
+    "static/media/admission.gif": "/School_Management/static/media/admission.95432784.gif",
+    "static/media/App.css": "/School_Management/static/media/back_ground.d4852703.jpg",
+    "static/media/maint.gif": "/School_Management/static/media/maint.8c3db462.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.e06d3e2c.js",
-    "static/js/2.47c839c4.chunk.js",
-    "static/css/main.e68ecaa7.chunk.css",
-    "static/js/main.d8951e23.chunk.js"
+    "static/js/2.03ea6b7f.chunk.js",
+    "static/css/main.cd137129.chunk.css",
+    "static/js/main.2b8acf09.chunk.js"
   ]
 }
