@@ -5,7 +5,7 @@ function WhyUs() {
   return (
     <p className="why_us">
       <h2>Best teachers :-</h2>
-      From IITS four other top colleges with 5 + year experience. 
+      From IITS and other top colleges with 5 + year experience. 
 
       <h2>Adaptive teaching  :-</h2>
       Delivering customized learning based on Students pace. 
