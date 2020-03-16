@@ -16,7 +16,8 @@ function App() {
   return (
     <Router>
       <Nav />
-      <h3 className="h1_class">The Path Way Academy</h3>
+      <title>TPWA</title>
+      <h3 className="h1_class">ThePathWayAcademy</h3>
       <Switch>
         <div className="App">
           <Route path="/School_Management" exact component={Home} />

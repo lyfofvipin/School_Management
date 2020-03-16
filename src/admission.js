@@ -8,7 +8,7 @@ function Admission() {
       <div>
         <p className="batch">
           Batch starting from 20 March <br />
-          Limites Seat<br />
+          Limited Seat<br />
           4 Days Class in a Week<br />
         </p>
       </div>

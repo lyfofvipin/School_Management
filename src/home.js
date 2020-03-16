@@ -5,7 +5,6 @@ import {Link} from 'react-router-dom';
 function Home() {
   return (
     <div className="App">
-      <title>TPWA</title>
       <table className="menu_list">
         <td className="box"><Link to='/programs'>Programs</Link></td>
         <td className="box"><Link to='/competitive'>Competitive Exam</Link></td>
@@ -14,7 +13,7 @@ function Home() {
       <table className="menu_list">
         <td className="box"><Link to='/downloads'>Downloads</Link></td>
         <td className="box"><Link to='/admission'>Admission</Link></td>
-        <td className="box"><Link to='/contect'>Contect US</Link></td>
+        <td className="box"><Link to='/contect'>contact US</Link></td>
       </table>
       <table className="menu_list">
         <td className="box"><Link to='/why_us'>Why US?</Link></td>
