@@ -25,7 +25,7 @@ function Navigation() {
             <li>Admission</li>
           </Link>
           <Link to='/contect'>
-            <li>Contect US</li>
+            <li>contact US</li>
           </Link>
           <Link to='/why_us'>
             <li>Why US?</li>
